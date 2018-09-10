@@ -314,7 +314,7 @@ else:
     CLASSDUMPZ_BINARY = ""
 
     # COMMON
-    JAVA_DIRECTORY = ""
+    JAVA_DIRECTORY = "/usr/bin/"
     VBOXMANAGE_BINARY = ""
     PYTHON3_PATH = ""
 
